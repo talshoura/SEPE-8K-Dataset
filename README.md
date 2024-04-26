@@ -1,7 +1,7 @@
 <a id="idtext"></a> 
-# SEPE 8K Dataset Location
+# SEPE 8K Dataset
 Please feel free to [**view and download the dataset here**](https://drive.google.com/drive/folders/1geFicEJeRD7dhmBlb0CHSQyrvIkYwp5Y?usp=sharing) \
-For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@ucalgary.ca) at: [Tariq.AlShoura@ucalgary.ca](mailto:Tariq.AlShoura@ucalgary.ca)
+For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@ucalgary.ca?subject=Inquiry%20about%20the%20SEPE%208K%20Dataset) at: [Tariq.AlShoura@ucalgary.ca](mailto:Tariq.AlShoura@ucalgary.ca?subject=Inquiry%20about%20the%20SEPE%208K%20Dataset)
 
 Please cite the following paper if using the dataset:
 > Tariq Al Shoura, Ali Mollaahmadi Dehaghi, Reza Razavi, Behrouz Far, and Mohammad Moshirpour. 2023. SEPE Dataset: 8K Video Sequences and Images for Analysis and Development. In Proceedings of the 14th ACM Multimedia Systems Conference (MMSys ’23), June 7–10, 2023, Vancouver, BC, Canada. doi: https://doi.org/10.1145/3587819.3592560
