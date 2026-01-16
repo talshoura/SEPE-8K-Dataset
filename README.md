@@ -6,6 +6,14 @@ For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@uc
 Please cite the following paper if using the dataset:
 > Tariq Al Shoura, Ali Mollaahmadi Dehaghi, Reza Razavi, Behrouz Far, and Mohammad Moshirpour. 2023. SEPE Dataset: 8K Video Sequences and Images for Analysis and Development. In Proceedings of the 14th ACM Multimedia Systems Conference (MMSys ’23), June 7–10, 2023, Vancouver, BC, Canada. doi: https://doi.org/10.1145/3587819.3592560
 
+<br>
+
+### Please checkout the [**VIDEA-8K-60FPS here**](https://github.com/talshoura/VIDEA-8K-60FPS-Dataset) :
+> **GitHub:** https://github.com/talshoura/VIDEA-8K-60FPS-Dataset <br>
+> **Paper:** https://doi.org/10.1145/3746027.3758278
+
+<br><br>
+
 ## Table of Contents
   * [Bitrates used for each video codec and resolution combination.](#bitrates-used-for-each-video-codec-and-resolution-combination)
   * [Spatial and Temporal Perceptual Information Distribution.](#spatial-and-temporal-perceptual-information-distribution)
